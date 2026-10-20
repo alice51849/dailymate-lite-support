@@ -1,0 +1,17 @@
+# DailyMate Lite: Speak Today support
+
+> Official support, help and privacy pages for DailyMate Lite: Speak Today, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6794725568
+- Platform: iOS
+- App Store category: Education
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/dailymate-lite-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/dailymate-lite-support/help.html)
+- [Support and contact](https://open.cait518.cc/dailymate-lite-support/support.html)
+- [Privacy policy](https://open.cait518.cc/dailymate-lite-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
